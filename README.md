@@ -1,7 +1,7 @@
 # ParaMarket
 
 Un backoffice pour la gestion des produits, clients et des utilisateurs
-D’une parapharmacie.
+d’une parapharmacie.
 
 # Installation 
 
@@ -9,12 +9,12 @@ D’une parapharmacie.
 
 2- Ouvrir le panneau de contrôle XAMPP et démarrer [apache] et [mysql].
 
-3- Télécharger le projet depuis GitHub (https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git)
+3- Télécharger le projet depuis GitHub (https://github.com/SirineKchaou/ParaMarket.git)
 OU suivre les commandes GitBash 
 
 4- i>cd C:\xampp\htdocs\
 
-5- ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git
+5- ii>git clone https://github.com/SirineKchaou/ParaMarket.git
 
 6- Extraire les fichiers dans C:\xampp\htdocs.
 
@@ -30,6 +30,6 @@ OU suivre les commandes GitBash
 
 12- Après l'importation réussie.
 
-13- Ouvrir n'importe quel navigateur et taper http://localhost/online-shopping-system-with-advanced-admin-page-master.
+13- Ouvrir n'importe quel navigateur et taper http://localhost/ParaMarket/index.
 
 14- S'inscrire d'abord, puis se connecter.
